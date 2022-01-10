@@ -7,6 +7,20 @@
 
 # Serversettings
 
-
 # DB Settings
+
+# DB Design
+
+# SystemDBs
+* regelm Sicherung
+* Wartungsjob
+
+# Aufträge
+* Zeitpläne
+* Schritte mit Verzweigungen
+* Benachrichtigung
+
+# Emailsystem
+* SMTP Server einrichten
+* SQL MailProfil hinterlegen
 

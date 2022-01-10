@@ -17,6 +17,16 @@ nur einmal pro Rechner
 
 
 Dienstkonten
+
+
+
+!!
+jeder Zugriff nach draussen wird immer mit dem Dienstkonto erledigt
+..alles was nicht TSQL ist oder auf einen anderen Server stattfindet
+
+lles was per Zeitplan läuft = Agent
+
+
 SQL Server DB Engine     NT Service\mssqlserver
 
 	unbeaufsichtigte Dienstkonten.. autom Kennwortänderungen, nur lokaler Zugriff

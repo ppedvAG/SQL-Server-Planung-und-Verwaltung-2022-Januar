@@ -6,8 +6,36 @@ DB Objekte
 Tabellen
 Primärschlüssel-->Fremdschlüssel
 Normalisierung 
-Beziehungen
+Beziehungen.. sper cool. weil Datenintegrität immer konsistent bleibt
+..was versteckt sich hinter einer best ID
+
 Datentypen
+KundenID int (ganze Zahlen) -2,1 Mrd +2,1Mrd ..bigint, smallint, tinyint, bit
+Vorname char(50) = fixe Länge
+	           varchar(50): bis zu 50 Zeichen lang
+			   nchar(50), nvarchar(50): doppelte Menge, aber alle Zeichen erlaubt
+			   bei flexiblen Längen auch flex Datentyp
+GebDatum
+			datetime (ms genau)
+			smalldatetime (sek)
+			date / time
+			datetime2 (ns)
+			datetimeoffset (ns inkl Zeitzone)
+
+Preis
+		money ( 8 Nachkommas)
+		decimal(5,2)  5 Stellen , davon 2 Nachkommastellen
+
+
+
+
+
+
+
+
+
+
+
 Diagramm
 
 
