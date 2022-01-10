@@ -5,3 +5,8 @@
 # 01 Installation
 * MAXDOP, Arbeitsspeicher, Pfade
 
+# Serversettings
+
+
+# DB Settings
+
