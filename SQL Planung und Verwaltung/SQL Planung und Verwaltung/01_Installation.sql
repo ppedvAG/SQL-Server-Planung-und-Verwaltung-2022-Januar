@@ -85,6 +85,7 @@ Anzahl der Dateien = Anzahl der Kerne, aber max 8
 MAXDOP
 max Anzahl der Kerne pro Abfrage, = Anzahl der Kerne max 8
 früher : 0 = alle
+eine Abfrage vwewendet entwerder 1 log Prozessor oder den MAXDOP Wert
 
 Arbeitspeicher
 
@@ -92,15 +93,5 @@ max Wert für RAM = (Gesamt - OS)  OS ca /mind 2 GB
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+--Bei bestehdendene Server sollte dies auch kontrolliert werden
 */

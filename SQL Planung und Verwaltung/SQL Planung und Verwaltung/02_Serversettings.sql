@@ -18,7 +18,9 @@ getrennte Pfade
 
 
 
-Priozessoren
-	maxdop 
+Prozessoren
+	maxdop ..wieviele Kerne verwendet eine Abfragen
+	der MAXDOP Wert gibt die maximale Anzahl an..
+	Wobeoi Abfragen entwerder 1 Kern oder alle (=MAXDOP ) verwenden
 
 */

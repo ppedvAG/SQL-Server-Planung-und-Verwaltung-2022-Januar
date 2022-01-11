@@ -2,8 +2,11 @@
 
 --an Hardware gedacht? --> HDD!!!!!!
 
---NUMA.. ist das die Realität
---Socket beistzen immer einen best ANteil an RAM Slots..
+--NUMA.. ist das die Realität?
+--Socket beistzen immer einen best Anteil an RAM Slots..
+--in der VM sollte die Zuordnung der RAMSlots zu Sockel identisch sein!!
+
+--ist dies nicht der Fall, dann erhöhte CPU Last und einige CPUs tun evtl gar nichts...
 
 RAM: 16 GB
 1 Socket 

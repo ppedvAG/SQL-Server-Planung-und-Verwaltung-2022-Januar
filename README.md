@@ -24,3 +24,22 @@
 * SMTP Server einrichten
 * SQL MailProfil hinterlegen
 
+
+# Backup Restore
+* Wiederherstellungsmodel
+* Sicherungsstrategie
+* Sicherungsplan
+* Fallbeispiele
+* DB trenne und anfügen
+
+# Security
+* Login vs User
+* DBRollen
+* Serverollen
+* Arbeiten mit Schema
+* Besitzverkettung
+
+
+
+
+
