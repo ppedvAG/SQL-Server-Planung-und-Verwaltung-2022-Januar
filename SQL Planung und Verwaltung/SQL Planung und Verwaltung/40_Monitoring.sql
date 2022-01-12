@@ -66,5 +66,19 @@ set statistics io, time on
 --Dieser muss allerdings pro DB aktiviert werden (Eigenschaften der DB)
 
 
+--Aufzeichnen von Daten aus Windows (Umgebung) und SQL Server
+--Perfmon
+
+
+
+select * from sys.dm_os_performance_counters
+
+
+
+
+select * from sys.dm_db_index_physical_Stats(db_id('northwind'),object_id('t2'), NULL,NULL, 'detailed')
+
+--forward_record_Count: 51638..sollte immer 0 sein
+
 
 

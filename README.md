@@ -40,6 +40,20 @@
 * Besitzverkettung
 
 
+# Monitoring
+* DMVs
+* Taskmanager vs Aktivitätsmonitor
+* Profiler
+* Perfmon
+* Datensammlung
+
+# weitere Tools
+* Audit
+* Richtlinien
+* Registrierte Server
+*
+
+
 
 
 
