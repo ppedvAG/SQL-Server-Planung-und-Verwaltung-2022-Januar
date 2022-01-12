@@ -24,7 +24,7 @@ Dienstkonten
 jeder Zugriff nach draussen wird immer mit dem Dienstkonto erledigt
 ..alles was nicht TSQL ist oder auf einen anderen Server stattfindet
 
-lles was per Zeitplan läuft = Agent
+alles was per Zeitplan läuft = Agent
 
 
 SQL Server DB Engine     NT Service\mssqlserver
